@@ -2,6 +2,8 @@
 
 I made a wind in Unity Engine.
 
+[![Development Note p.380](https://img.youtube.com/vi/N_BJCGViBRM/0.jpg)](https://www.youtube.com/watch?v=N_BJCGViBRM)
+
 # **Links**
 
 * [JkhTV YouTube(장경혁tv)](https://www.youtube.com/channel/UC0lR1aYGgOhFioC3IsazUtw)
